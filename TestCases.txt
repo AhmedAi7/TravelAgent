@@ -1,0 +1,15 @@
+Print_solution(travel( “Cairo”,”San Francisco”,[“tue”,”wed”]))
+Print_solution(travel( “Cairo”,”San Francisco”,[“sat”,”mon”]))
+Print_solution(travel( “Port Said”,”Shanghai”,[“mon”,”tue”]))
+Print_solution(travel( “Edinburgh”,”Shanghai”,[“sat”,”mon”]))
+Print_solution(travel( “Nice”,”PortSaid”,[“tue”,”wed”]))
+Print_solution(travel( “Edinburgh”,”Venice”,[“sat”,”mon”]))
+Print_solution(travel( “Chicago”,”Lyon”,[“sat”,”sun”]))
+Print_solution(travel( “Aswan”,”Liverpool”,[“thu”,”fri”]))
+Print_solution(travel( “Milan”,”Tokyo”,[“sat”,”mon”]))
+Print_solution(travel( “Aswan”,”Chicago”,[“thu”,”fri”]))
+
+
+Print_solution(travel( “Milan”,”Tokyo”,[“Sunday”,”Monday”]))
+Print_solution(travel( “Milano”,”Tokyo”,[“sat”,”mon”]))
+Print_solution(travel( “Milan”,”Roma”,[“sat”,”mon”]))
